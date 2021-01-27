@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874600893629",
+    "project_id": "flash-chat-fdd3b",
+    "storage_bucket": "flash-chat-fdd3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874600893629:android:994b32c6badd0f7ecf7bd4",
+        "android_client_info": {
+          "package_name": "co.Lalalila.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874600893629-8g0v0g53261epjkhlfkfba852aa87pks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIqipChMkr3V8CsptLeqUllAQkqt000I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874600893629-8g0v0g53261epjkhlfkfba852aa87pks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
